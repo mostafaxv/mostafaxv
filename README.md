@@ -2,7 +2,7 @@ Hi there 👋
 
 
 - 🌱 I’m currently learning React js & python Fast api
-- 💬  Ask me about Django <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/55babad9343814f7e8b1d960538ff43a61e37249892dec5643d465564a279ac8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446a616e676f2d3035313232413f7374796c653d666c6174266c6f676f3d646a616e676f"> | Python 🐍
+- 💬  Ask me about Python 🐍
 - ⚡  Fun fact I ❤️️ Open Source World + ☕ !
 
 🛠  Tech Stack
